@@ -8,7 +8,7 @@
 				<!-- copyright -->
 				<p style="padding-top:20px" class="copyright">
 					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. Une production
-					<a href="https://www.brunoantunes.fr" title="Développeur Web freelance Paris" style="text-decoration:underline">Bruno Antunes</a>.
+					<a href="https://www.brunoantunes.fr" title="Développeur Web freelance Paris" style="text-decoration:underline">Bruno Antunes</a>. Vidéo réalisée par <a href="http://morphoproductions.fr/" target="_blank">Morpho Productions</a>
 				</p>
 				<!-- /copyright -->
 
