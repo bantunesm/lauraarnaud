@@ -48,6 +48,8 @@
         <section id="noces">
         
             <?php echo do_shortcode('[Best_Wordpress_Gallery id="5" gal_title="MOOREA"]');?>
+            
+            <a class="cta" href="/bonus" target="_blank">Plus de photos</a>
         
         </section>
         

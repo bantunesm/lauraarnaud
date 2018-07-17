@@ -96,6 +96,10 @@ section#remerciements {
     margin-top: 0;
 }
 
+section#noces {
+    padding-top: 100px;
+}
+
 .cta, .bwg_load_btn_0 {
     border: 1px solid #f5e7e6 !important;
     padding: 15px 40px !important;
