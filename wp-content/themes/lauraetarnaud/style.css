@@ -96,12 +96,12 @@ section#remerciements {
     margin-top: 0;
 }
 
-.cta {
-    border: 1px solid #f5e7e6;
-    padding: 15px 40px;
-    display: inline-block;
-    margin: 50px auto 10px;
-    text-align: center;
+.cta, .bwg_load_btn_0 {
+    border: 1px solid #f5e7e6 !important;
+    padding: 15px 40px !important;
+    display: inline-block !important;
+    margin: 50px auto 10px !important;
+    text-align: center !important;
 }
 
 .cta.rose {
