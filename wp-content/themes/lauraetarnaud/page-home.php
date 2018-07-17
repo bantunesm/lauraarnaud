@@ -45,6 +45,12 @@
         
         </section>
         
+        <section id="noces">
+        
+            <?php echo do_shortcode('[Best_Wordpress_Gallery id="5" gal_title="MOOREA"]');?>
+        
+        </section>
+        
         
 	</main>
 
